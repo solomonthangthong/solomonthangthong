@@ -1,7 +1,7 @@
 Hello 👋
 
 My name is Solomon Thangthong, and I am a 2nd year [Computer Engineering Technology - Computer Science student](https://www.algonquincollege.com/sat/program/computer-engineering-technology-computing-science/) at Algonquin College.
--  I’m currently seeking a software engineering co-op for January 2023!
+-  I’m currently seeking a software engineering co-op for September 2023!
 -  I'm eager to learn and want to experience what it's like in the work force.
 
 To connect with me, checkout these resources:
