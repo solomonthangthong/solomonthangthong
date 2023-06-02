@@ -1,6 +1,6 @@
 Hello 👋
 
-My name is Solomon Thangthong, and I am a 4th semester [Computer Engineering Technology - Computer Science student](https://www.algonquincollege.com/sat/program/computer-engineering-technology-computing-science/) at Algonquin College.
+My name is Solomon Thangthong, and I am a 4th semester [Computer Engineering Technology - Computer Science](https://www.algonquincollege.com/sat/program/computer-engineering-technology-computing-science/) student at Algonquin College.
 -  I’m currently seeking a software engineering co-op for September 2023!
 -  Previously finished a co-op term at Innovapost doing DevOp/SRE tasks.
 
