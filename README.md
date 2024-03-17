@@ -1,7 +1,7 @@
 Hello 👋
 
 My name is Solomon Thangthong, and I am a 4th semester [Computer Engineering Technology - Computer Science](https://www.algonquincollege.com/sat/program/computer-engineering-technology-computing-science/) student at Algonquin College.
--  I’m currently working a SAP ABAP developer co-op at Innovapost - Deloitte!
+-  I’m currently working as a SAP ABAP developer at Innovapost - Deloitte co-op!
 -  Previously finished a co-op term at Innovapost doing DevOp/SRE tasks.
 
 To connect with me, checkout these resources:
