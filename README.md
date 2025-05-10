@@ -1,6 +1,6 @@
 Hello 👋
 
-My name is Solomon Thangthong, and I am a recent graduated from Algonquin College with a  [Computer Engineering Technology - Computer Science](https://www.algonquincollege.com/sat/program/computer-engineering-technology-computing-science/) advanced diploma.
+My name is Solomon Thangthong, I am Junior Developer and a recent graduated from Algonquin College with a  [Computer Engineering Technology - Computer Science](https://www.algonquincollege.com/sat/program/computer-engineering-technology-computing-science/) advanced diploma.
 -  Previously worked as a SAP ABAP developer and DevOps Engineer co-ops at Innovapost - Deloitte!
 
 To connect with me, checkout these resources:
